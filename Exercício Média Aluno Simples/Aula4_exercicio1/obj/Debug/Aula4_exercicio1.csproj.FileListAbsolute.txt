@@ -1,0 +1,14 @@
+C:\Users\rogerio.furlan\source\repos\Aula4_exercicio1\Aula4_exercicio1\bin\Debug\Aula4_exercicio1.exe.config
+C:\Users\rogerio.furlan\source\repos\Aula4_exercicio1\Aula4_exercicio1\bin\Debug\Aula4_exercicio1.exe
+C:\Users\rogerio.furlan\source\repos\Aula4_exercicio1\Aula4_exercicio1\bin\Debug\Aula4_exercicio1.pdb
+C:\Users\rogerio.furlan\source\repos\Aula4_exercicio1\Aula4_exercicio1\obj\Debug\Aula4_exercicio1.csprojAssemblyReference.cache
+C:\Users\rogerio.furlan\source\repos\Aula4_exercicio1\Aula4_exercicio1\obj\Debug\Aula4_exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\rogerio.furlan\source\repos\Aula4_exercicio1\Aula4_exercicio1\obj\Debug\Aula4_exercicio1.exe
+C:\Users\rogerio.furlan\source\repos\Aula4_exercicio1\Aula4_exercicio1\obj\Debug\Aula4_exercicio1.pdb
+I:\ETEC2019\AULA BIDU 2019\Exercicios Resolvidos Turma A\Aula4_exercicio1\Aula4_exercicio1\bin\Debug\Aula4_exercicio1.exe.config
+I:\ETEC2019\AULA BIDU 2019\Exercicios Resolvidos Turma A\Aula4_exercicio1\Aula4_exercicio1\bin\Debug\Aula4_exercicio1.exe
+I:\ETEC2019\AULA BIDU 2019\Exercicios Resolvidos Turma A\Aula4_exercicio1\Aula4_exercicio1\bin\Debug\Aula4_exercicio1.pdb
+I:\ETEC2019\AULA BIDU 2019\Exercicios Resolvidos Turma A\Aula4_exercicio1\Aula4_exercicio1\obj\Debug\Aula4_exercicio1.csprojAssemblyReference.cache
+I:\ETEC2019\AULA BIDU 2019\Exercicios Resolvidos Turma A\Aula4_exercicio1\Aula4_exercicio1\obj\Debug\Aula4_exercicio1.csproj.CoreCompileInputs.cache
+I:\ETEC2019\AULA BIDU 2019\Exercicios Resolvidos Turma A\Aula4_exercicio1\Aula4_exercicio1\obj\Debug\Aula4_exercicio1.exe
+I:\ETEC2019\AULA BIDU 2019\Exercicios Resolvidos Turma A\Aula4_exercicio1\Aula4_exercicio1\obj\Debug\Aula4_exercicio1.pdb
